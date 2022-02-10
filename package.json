@@ -19,6 +19,8 @@
     "express": "^4.17.2",
     "heroku": "^7.59.2",
     "mongoose": "^6.2.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "passport": "^0.5.2",
+    "passport-google-oauth20": "^2.0.0"
   }
 }
